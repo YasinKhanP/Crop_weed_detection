@@ -147,10 +147,9 @@ Before the internship, various techniques, including manual inspection, traditio
 To overcome the limitations of existing approaches, I proposed the development of a machine learning model for crop and weed detection. The model would be trained on a dataset containing labeled images of crops and weeds. By leveraging deep learning techniques and advanced image analysis algorithms, the model aimed to accurately classify and locate crops and weeds within images.
 
 4.3 Code Submission (Github Link) 
-
-
+https://github.com/YasinKhanP/Crop_weed_detection.git
 4.4Report submission (Github link)  :
-
+https://github.com/YasinKhanP/Crop_weed_detection/blob/main/README.md
 
 
 5. Proposed Design/Model
