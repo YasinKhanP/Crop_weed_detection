@@ -19,42 +19,6 @@ This internship was focused on a project/problem statement provided by UCT. We h
 My project was (Tell about ur Project)
 This internship gave me a very good opportunity to get exposure to Industrial problems and design/implement solution for that. It was an overall great experience to have this internship.
 
-
-
-
-
-
-TABLE OF CONTENTS
-1.Preface………………………………………………………………………………………………...3
-2.Introduction	4
-2.1About UniConverge Technologies Pvt Ltd	4
-2.2About upskill Campus (USC)	8
-2.3Objectives of this Internship program	9
-2.4Reference	9
-    2.5Glossary…………………………………………………………………………………………………………………………………….9
-3.Problem Statement…………………………………………………………………………………..10
-4.Existed and Proposed statement……………………………………………………………………..10
-    4.1Exisiting Approach………………………………………………………………………………10
-     4.2Proposed Solution…………………………………………………………………………………………………………………..10
-     4.3Code Submission (Github Link)…………...………………………………………………………………………………….10
-     4.4Report Submission (Github Link)…………………………………………………………………………………………….10
-5.Proposed Design/Model……………………………………………………………………………………………………………….11
-    5.1High Level Diagram………………………………………………………………………………………………………………….11
-    5.2Low Level Diagram…………………………………………………………………………………………………………………..11
-    5.3Interfaces……………………………………………………………………………………………………………………………..…11
-6.Performance Test………………………………………………………………………………………………………………………….12
-    6.1Test Performance/Test case……………………………………………………………………………………………………..12
-7.Result and Analysis.………………………………………………………………………………………………………………………12
-8.Conclusion…………………………………………………………………………………………………………………………………….12
-9.Future Work………………………………………………………………………………………………………………………………….12
-10.My Learnings………………………………………………………………………………………………………………………………13
-
-
-
-
-
-
-
 1. Preface
 Summary of the whole 6 weeks’ work.
 About need of relevant Internship in career development.
