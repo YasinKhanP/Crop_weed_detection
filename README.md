@@ -16,7 +16,6 @@ G. Samba Siva
 Executive Summary
 This report provides details of the Industrial Internship provided by upskill Campus and The IoT Academy in collaboration with Industrial Partner UniConverge Technologies Pvt Ltd (UCT).
 This internship was focused on a project/problem statement provided by UCT. We had to finish the project including the report in 6 weeks’ time.
-My project was (Tell about ur Project)
 This internship gave me a very good opportunity to get exposure to Industrial problems and design/implement solution for that. It was an overall great experience to have this internship.
 
 1. Preface
