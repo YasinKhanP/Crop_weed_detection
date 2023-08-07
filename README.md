@@ -1,4 +1,5 @@
 # Crop_weed_detection
+UPSKILL CAMPUS
 INDUSTRIAL INTERNSHIP REPORT ON
 CROP AND WEED DETECTION
 Prepared by
@@ -110,7 +111,7 @@ Before the internship, various techniques, including manual inspection, traditio
 To overcome the limitations of existing approaches, I proposed the development of a machine learning model for crop and weed detection. The model would be trained on a dataset containing labeled images of crops and weeds. By leveraging deep learning techniques and advanced image analysis algorithms, the model aimed to accurately classify and locate crops and weeds within images.
 
 4.3 Code Submission (Github Link) 
-https://github.com/YasinKhanP/Crop_weed_detection.git
+https://github.com/YasinKhanP/Upskill-Campus.git
 4.4Report submission (Github link)  :
 https://github.com/YasinKhanP/Crop_weed_detection/blob/main/README.md
 
