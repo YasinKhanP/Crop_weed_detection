@@ -113,7 +113,7 @@ To overcome the limitations of existing approaches, I proposed the development o
 4.3 Code Submission (Github Link) 
 https://github.com/YasinKhanP/Upskill-Campus.git
 4.4Report submission (Github link)  :
-https://github.com/YasinKhanP/Crop_weed_detection/blob/main/README.md
+https://github.com/YasinKhanP/Upskill-Campus/blob/main/README.md
 
 
 5. Proposed Design/Model
